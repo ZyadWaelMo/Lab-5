@@ -1,0 +1,14 @@
+body {
+    background: #000000;
+    background: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    color: white;
+}
+
+.weatherContainer {
+    min-height: 30rem;
+    text-align: center;
+}
+
+.searchContent {
+    text-align: center;
+}

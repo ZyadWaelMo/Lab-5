@@ -1,0 +1,10 @@
+body {
+    background: #b300b3;
+    background: linear-gradient(90deg, rgba(179, 0, 179, 1) 0%, rgba(36, 36, 37, 1) 100%);
+    color: white;
+}
+
+.weatherContainer {
+    min-height: 30rem;
+    text-align: center;
+}
